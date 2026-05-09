@@ -1,3 +1,5 @@
+Link da apresentação no youtube:https://youtu.be/JYupdO0ClLQ
+
 ## API REST - Users e Tasks (Express + Prisma + SQLite)
 
 API REST em camadas (`routes`, `controllers`, `services`, `middlewares`, `models`, `utils`) com autenticação JWT, hash de senha com bcrypt e persistência em SQLite via Prisma.
@@ -34,6 +36,7 @@ npm start
 ```
 
 Se aparecer `EADDRINUSE` (porta ocupada), altere a porta:
+
 
 ```powershell
 $env:PORT=4000
